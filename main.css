@@ -1,0 +1,33 @@
+
+#number{
+    font-size: 80px;
+    text-align: center;
+    padding-left: 180px
+}
+div {
+    display: inline-block;
+}
+
+.button {
+    background-color: grey;
+    width: 100px;
+    height: 100px;
+    font-size:40px;
+    color: white;
+    margin: 0 auto;
+}
+p{
+    font-size: 50px;
+    border:lightgrey; 
+    border-width:5px; 
+    border-style:solid;
+    margin: 20px;
+    padding: 20px 60px;   
+}
+
+.button:hover {
+    background-color: white; 
+    color: grey;
+  }
+
+
